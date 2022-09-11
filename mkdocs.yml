@@ -1,2 +1,6 @@
 site_name: MindCity-Wiki
 theme: readthedocs
+
+nav:
+    - 'Acceuil': 'index.md'
+    - 'MkDocs Tuto': 'tuto_mkdocs.md'
