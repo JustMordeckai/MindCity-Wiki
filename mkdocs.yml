@@ -2,5 +2,8 @@ site_name: MindCity-Wiki
 theme: readthedocs
 
 nav:
-    - 'Acceuil': 'index.md'
+    - Home: 'index.md'
+    - 'Technique':
+        - 'Développeur': 'index_dev.md'
+        - 'Mappeur': 'index_map.md'
     - 'MkDocs Tuto': 'tuto_mkdocs.md'
