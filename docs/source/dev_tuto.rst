@@ -10,7 +10,7 @@ Optimisation SharedObject
 ESX 1.7.5 a simplifié l'utilisation du framework et le partage des objets partagés.
 
 Dorénavant, l'appel à l'event pour obtenir les objets partagés n'est plus nécessaire, 
-vous devez cependant préciser le fichier d'import d'ESX dans le ``fxmanifest.lua`` de votre ressource.
+cependant vous devez préciser le fichier d'import d'ESX dans le ``fxmanifest.lua`` de votre ressource.
 
 .. code-block:: lua
 
