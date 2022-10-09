@@ -1,22 +1,22 @@
-Welcome to Lumache's documentation!
-===================================
+Bienvenue sur la documentation MindCity
+=======================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Bienvenue sur le Wiki de l'équipe technique de MindCity, si vous n'êtes pas 
+testeur, mappeur ou développeur, vous n'avez pas grande utilité à être ici !
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Pour les développeurs, dirigez-vous vers la page :doc:`index_dev`
+
+Pour les mappeurs, votre section arrivera bientôt
+
+Pour les testeurs, votre section arrivera bientôt
 
 .. note::
 
-   This project is under active development.
+   Le Wiki est en développement continue
 
 Contents
 --------
 
 .. toctree::
 
-   usage
-   api
+   index_dev
