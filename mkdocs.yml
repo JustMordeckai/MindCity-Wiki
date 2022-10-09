@@ -1,9 +1,4 @@
-site_name: MindCity-Wiki
-theme: readthedocs
-
+site_name: Wiki MindCity
 nav:
-    - Home: 'index.md'
-    - 'Technique':
-        - 'Développeur': 'index_dev.md'
-        - 'Mappeur': 'index_map.md'
-    - 'MkDocs Tuto': 'tuto_mkdocs.md'
+    - Home: index.md
+theme: readthedocs
