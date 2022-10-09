@@ -18,7 +18,6 @@ Pour les testeurs, votre section arrivera bientôt
 Sommaire
 --------
 
-.. autosummary::
-   :toctree: generated
+.. toctree::
 
    index_dev
