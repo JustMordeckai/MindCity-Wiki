@@ -14,9 +14,9 @@ Pour les testeurs, votre section arrivera bientôt
 
    Le Wiki est en développement continue
 
-Contents
+
+Sommaire
 --------
 
-.. toctree::
-
-   index_dev
+.. autosummary::
+   :toctree: generated
