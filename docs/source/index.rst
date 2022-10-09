@@ -20,3 +20,5 @@ Sommaire
 
 .. autosummary::
    :toctree: generated
+
+   index_dev
